@@ -1,0 +1,25 @@
+
+# Data processing
+numpy
+pandas
+opencv-python-headless
+Pillow
+PyYAML
+tqdm
+
+# CLIP and Vision-Language Models
+open_clip_torch
+transformers
+timm
+safetensors
+huggingface_hub
+
+# Evaluation
+scikit-learn
+
+# Metadata validation
+jsonschema
+
+# Text preprocessing
+ftfy
+regex
