@@ -1,0 +1,6 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Video metadata",
+  "description": "Schema khung; b\u1ed5 sung c\u00e1c tr\u01b0\u1eddng metadata khi tri\u1ec3n khai.",
+  "type": "object"
+}
